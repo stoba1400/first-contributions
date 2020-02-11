@@ -1,3 +1,4 @@
+
 # Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Amon Peter (https://github.com/AmonPeter)
@@ -8,6 +9,7 @@
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
+- Shane Tobar (https://github.com/stoba1400)
 - Solomon Selvakumar (https://github.com/solozzz)
 - Nick B (https://github.com/ceramicskull)
 - Somal Chakraborty(https://github.com/SomalRudra)
